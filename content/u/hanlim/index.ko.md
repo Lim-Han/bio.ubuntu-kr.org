@@ -23,7 +23,7 @@ button:
   label: 일정 예약하기
   link: https://cal.com/limhan
 vcf:
-  firstName: 힌
+  firstName: 한
   lastName: 임
   work:
     org: Ubuntu Korea Community
